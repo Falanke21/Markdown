@@ -160,6 +160,15 @@ void main()
 
 #### 4.9 图片
 添加图片的形式和链接相似，只需在链接的基础上前方加一个`！`。
+
+Example: 
+
+> `Inline-style: `
+> `![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")`
+
+> Inline-style:
+> ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
+
 #### 4.10 反斜杠`\`
 相当于**反转义**作用。使符号成为普通符号。
 #### 4.11 符号'`'
